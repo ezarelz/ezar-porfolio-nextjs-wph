@@ -1,4 +1,4 @@
-# **Ezar Portfolio — WPH Submission**
+# **Ezar Portfolio — For WPH**
 
 This project is a personal portfolio built as part of the **Web Programming Hack — StarPack Bootcamp** assignment.
 Developed using **Next.js**, **TypeScript**, and **Tailwind CSS**, with a focus on performance, clean UI, and responsive layout.
