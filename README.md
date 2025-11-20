@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Ezar Portfolio — WPH Submission**
 
-## Getting Started
+This project is a personal portfolio built as part of the **Web Programming Hack — StarPack Bootcamp** assignment.
+Developed using **Next.js**, **TypeScript**, and **Tailwind CSS**, with a focus on performance, clean UI, and responsive layout.
 
-First, run the development server:
+---
+
+## 🚀 **Tech Stack**
+
+- **Next.js 14 (App Router)**
+- **TypeScript**
+- **Tailwind CSS**
+- **Radix UI**
+- **Framer Motion**
+- **React Hook Form + Zod**
+- **Vercel Deployment**
+
+---
+
+## 🛠️ **Getting Started**
+
+Clone This Repository.
+
+Run the project locally:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open **[http://localhost:3000](http://localhost:3000)** in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📁 **Project Structure**
 
-## Learn More
+```
+src/
+ ├─ app/          # Next.js App Router
+ ├─ components/   # UI components
+ ├─ constants/    # static data
+ ├─ lib/          # utilities / helpers
+ └─ .env          # env for contact forms using email JS
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔗 **Live Demo**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Vercel: _[to be added after deployment]_
+GitHub Repo: _[your repository link]_
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📌 **Features**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Responsive landing page
+- Clean and modern UI based on Figma
+- Smooth animations using Framer Motion
+- Custom components (Radix UI + Tailwind)
+- Mobile-first layout
+- Optimized images & fonts
+
+---
+
+## 📄 **License**
+
+This project is created for learning and portfolio purposes.
