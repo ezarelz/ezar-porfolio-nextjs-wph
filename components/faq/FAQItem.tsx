@@ -25,7 +25,7 @@ const FAQItem: React.FC<FAQItemProps> = ({
 
         ${
           active
-            ? 'bg-[#0FA4AF] w-[386px] h-[466px]'
+            ? 'bg-[#075864] w-[386px] h-[466px]'
             : 'bg-black w-[252px] h-[466px]'
         }
       `}
